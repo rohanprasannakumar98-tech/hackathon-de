@@ -1,0 +1,3 @@
+# pipeline config (edit per use case)
+source: local
+target: postgres
